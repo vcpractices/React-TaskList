@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Chequeo con el Doctor",
+      "day": "5 de Feb a las 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Reunion de Trabajo",
+      "day": "6 de Feb a las 10:30am",
+      "reminder": true
+    },
+    {
+      "text": "Prueba",
+      "day": "28 de Ene a las 11:08am",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
